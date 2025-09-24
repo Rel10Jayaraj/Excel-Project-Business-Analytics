@@ -1,6 +1,6 @@
 # Service Parts Demand Forecasting & Reporting Automation (Excel)
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates **Advanced Excel skills** for business analytics, using a simulated dataset of Tesla-style service parts.  
 It automates data cleaning, demand forecasting, and reporting using **Power Query, PivotTables, and What-If Analysis**.
 
